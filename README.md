@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # NxtBuild - AI-Powered Web App Builder
 
 **Transform Ideas into Working Apps Instantly**
@@ -357,3 +358,5 @@ For issues, questions, or feedback, please create an issue in the repository or 
 **Happy Building! 🚀**
 
 Transform your ideas into working web apps in seconds with NxtBuild.
+=======
+
