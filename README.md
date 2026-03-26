@@ -349,11 +349,7 @@ This project is open source and available under the MIT License.
 
 Contributions are welcome! Feel free to submit issues and enhancement requests.
 
-## 💬 Support
 
-For issues, questions, or feedback, please create an issue in the repository or contact the development team.
-
----
 
 **Happy Building! 🚀**
 
