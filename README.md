@@ -343,9 +343,7 @@ Request Proceeds (or 401 Unauthorized)
 - [ ] Mobile app builder
 - [ ] Custom domain hosting
 
-## 📄 License
 
-This project is open source and available under the MIT License.
 
 ## 🤝 Contributing
 
