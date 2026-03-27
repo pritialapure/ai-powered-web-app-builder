@@ -321,6 +321,8 @@ Request Proceeds (or 401 Unauthorized)
 1. Build production bundle: `npm run build`
 2. Deploy the `dist` folder
 3. Set API endpoint environment variable pointing to backend
+✅ **Frontend is live at:** [https://ai-powered-web-app-builder-lime.vercel.app]
+✅ **Backend is live at:** [https://ai-powered-web-app-builder-nlat.onrender.com]
 
 ## 📚 Additional Resources
 
