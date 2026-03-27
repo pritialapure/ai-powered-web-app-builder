@@ -23,5 +23,6 @@ const api = {
     return axios.delete(`${BASE_URL}${endpoint}`, { headers: getHeaders() });
   },
 };
+console.log('API URL:', import.meta.env.VITE_API_URL)
 
 export default api;
