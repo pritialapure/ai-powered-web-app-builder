@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<p align="center">
+  <img src="./screenshots/banner.png" alt="NxtBuild Banner" width="100%">
+</p>
 # NxtBuild - AI-Powered Web App Builder
 
 **Transform Ideas into Working Apps Instantly**
