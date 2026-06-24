@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+**NxtBuild**
 <p align="center">
   <img src="./bannernxt.png" alt="NxtBuild Banner" width="100%">
 </p>
